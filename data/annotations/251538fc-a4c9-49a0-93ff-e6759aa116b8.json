@@ -1,5 +1,52 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Test annotation 1"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "test",
+          "category": "Test"
+        },
+        {
+          "tag": "Elizabeth Bishop",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e949ae2c-67b9-4b38-9a72-a1dcdb8631ba"
+    },
+    {
+      "start_time": 90,
+      "end_time": 93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Test annotation 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Elizabeth Bishop",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "156467d6-161b-49fa-8383-80fea615991d"
+    }
+  ],
   "set": "Default",
   "event_id": "9bbd50a1-ac18-46c5-9bba-22f7359b5a44",
   "source_id": "b7dc8b33-6421-428f-ac45-125b5d17639c"
