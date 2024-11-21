@@ -1,0 +1,32 @@
+{
+  "audiovisual_files": {
+    "7e064321-a998-459b-bece-3494ccc184f9": {
+      "label": "Bishop Filling Station",
+      "is_offline": false,
+      "file_url": "https://youtu.be/85v7TJAOayw?feature=shared",
+      "duration": 112
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Video",
+  "label": "Elizabeth Bishop reads \\\"Filling Station\\\"",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bishop reading \"Filling Station\""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-11-21T14:01:15.926Z",
+  "created_by": "absempere",
+  "updated_at": "2024-11-21T14:01:15.926Z",
+  "updated_by": "absempere"
+}
