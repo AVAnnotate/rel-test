@@ -14,7 +14,7 @@
     "slug": "rel-test",
     "creator": "absempere",
     "authors": "",
-    "media_player": "aviary",
+    "media_player": "avannotate",
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
@@ -60,7 +60,7 @@
       ]
     },
     "created_at": "2024-11-21T13:59:00.828Z",
-    "updated_at": "2024-11-21T14:11:28.945Z",
+    "updated_at": "2024-11-21T14:17:21.547Z",
     "generate_pages_site": true
   },
   "is_private": false
