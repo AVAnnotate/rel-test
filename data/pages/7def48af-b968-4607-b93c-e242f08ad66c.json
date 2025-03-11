@@ -3,10 +3,10 @@
   "created_at": "2024-11-21T13:59:00.847Z",
   "created_by": "absempere",
   "title": "Production Test",
-  "updated_at": "2025-03-11T19:10:33.974Z",
+  "updated_at": "2025-03-11T19:11:10.558Z",
   "updated_by": "absempere",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "home"
   }
 }
